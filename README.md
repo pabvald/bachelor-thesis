@@ -1,6 +1,6 @@
 # Virtual assistants: state of the art and development of a prototype.
-B.Eng. in Computer Engineering 
-Field of Computation thesis
+Bachelor's thesis
+B.Eng. in Computer Engineering - Field of Computation 
 
 
 ## Abstract 
