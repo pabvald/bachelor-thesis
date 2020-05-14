@@ -1,5 +1,7 @@
 # Virtual assistants: state of the art and development of a prototype.
-B.Eng. in Computer Engineering - Field of Computation thesis
+B.Eng. in Computer Engineering 
+Field of Computation thesis
+
 
 ## Abstract 
 Nowadays, there are already several virtual assistants such as Amazon Alexa, Microsoft Cortana or Google Assistant, whose use is becoming more and more widespread, both at home and in the workplace. Different sources estimate that the use of this sort of system will increase significantly in the coming years in different sectors, such as healthcare or banking, with the aim of automating various processes. However, virtual assistants still have limitations and are far from matching the conversation provided by a person. 
