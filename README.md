@@ -21,8 +21,8 @@ All the work done during my bachelor's thesis can be found in the following repo
 - [semantic_similarity](https://www.github.com/pabvald/semantic_similarity): comparison of methods based on pre-trained Word2Vec, GloVe and FastText vectors to measure the semantic similarity between sentence pairs.
 
 - [uva_faqs](https://www.github.com/pabvald/uva_faqs): extracting and processing of the frequently asked questions (FAQs) from the International Relations page and the Doctoral School page of the University of Valladolid in Spanish and English.
-- [chatbot](https://www.github.com/pabvald/chatbot): prototype of a virtual assistant for the International Relations service of the University of Valladolid built with **Flask**, **spaCy** and **Telegram Messenger**.
-- [chatbot2](https://www.github.com/pabvald/chatbot2): prototype of a virtual assistant for the International Relations service of the University of Valladolid built with **Flask**, **Dialogflow** and **Telegram Messenger**.
+- [chatbot](https://www.github.com/pabvald/chatbot): prototype of a virtual assistant for the International Relations service of the University of Valladolid built with **Flask**, **PostgreSQL**, **spaCy** and **Telegram Messenger**.
+- [chatbot2](https://www.github.com/pabvald/chatbot2): prototype of a virtual assistant for the International Relations service of the University of Valladolid built with **Flask**, **PostgreSQL**, **Dialogflow** and **Telegram Messenger**.
 
 
 ## Report (in Spanish) 
