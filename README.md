@@ -18,10 +18,10 @@ In addition, with the aim of obtaining a better idea of the possibilities of the
 ## Code 
 All the work done during my bachelor's thesis can be found in the following repositories:
 
-- [semantic_similarity](github.com/pabvald/semantic_similarity)
-- [uva_faqs](github.com/pabvald/uva_faqs)
-- [chatbot](github.com/pabvald/chatbot)
-- [chatbot2](github.com/pabvald/chatbot2)
+- [semantic_similarity](https://wwww.github.com/pabvald/semantic_similarity)
+- [uva_faqs](https://wwww.github.com/pabvald/uva_faqs)
+- [chatbot](https://wwww.github.com/pabvald/chatbot)
+- [chatbot2](https://wwww.github.com/pabvald/chatbot2)
 
 
 ## Report (in Spanish) 
