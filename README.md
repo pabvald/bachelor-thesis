@@ -1,7 +1,7 @@
 # Virtual assistants: state of the art and development of a prototype.
 Bachelor's thesis
 
-B.Eng. in Computer Engineering - Field of Computation 
+B.Eng. in Computer Engineering - Major in Computing (2016-2020)
 
 ## Code 
 All the work done during my bachelor's thesis can be found in the following repositories:
