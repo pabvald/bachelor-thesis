@@ -1,5 +1,5 @@
 # Virtual assistants: state of the art and development of a prototype.
-Bachelor's thesis
+Bachelor's thesis done within the [ECA-SIMM](https://eca-simm.uva.es/en/home/) research group of the University of Valladolid.
 
 B.Eng. in Computer Engineering - Major in Computing (2016-2020)
 
